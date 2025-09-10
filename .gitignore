@@ -1,3 +1,9 @@
+#env
+.env
+
+# Result Data
+/downloads
+
 # History files
 .Rhistory
 .Rapp.history
